@@ -156,4 +156,5 @@ def delete(student_id: int):
     del students[student_id]  
     return {"Message": "Student deleted successfully"}
 ```
-
+  
+[Here you can watch the tutorial](https://www.youtube.com/watch?v=tLKKmouUams)
